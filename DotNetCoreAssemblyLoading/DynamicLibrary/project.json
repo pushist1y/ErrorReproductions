@@ -1,0 +1,20 @@
+﻿{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "1.0.0",
+    "Microsoft.EntityFrameworkCore": "1.0.0",
+    "NETStandard.Library": "1.6.0",
+    "Npgsql.EntityFrameworkCore.PostgreSQL": "1.0.1",
+    "AbstractionsLibrary": {
+      "version": "1.0.0-*",
+      "target": "project"
+    }
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}

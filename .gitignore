@@ -1,0 +1,13 @@
+DotNetCoreAssemblyLoading/.vs/
+project.lock.json
+DotNetCoreAssemblyLoading/MainApp/obj/
+DotNetCoreAssemblyLoading/MainApp/bin/
+DotNetCoreAssemblyLoading/MainApp/MainApp.xproj
+DotNetCoreAssemblyLoading/DynamicLibrary/obj/
+DotNetCoreAssemblyLoading/DynamicLibrary/bin/
+DotNetCoreAssemblyLoading/DynamicLibrary/DynamicLibrary.xproj
+DotNetCoreAssemblyLoading/DynamicLibrary/DynamicLibrary.xproj.user
+DotNetCoreAssemblyLoading/AbstractionsLibrary/obj/
+DotNetCoreAssemblyLoading/AbstractionsLibrary/AbstractionsLibrary.xproj
+DotNetCoreAssemblyLoading/AbstractionsLibrary/AbstractionsLibrary.xproj.user
+DotNetCoreAssemblyLoading/AbstractionsLibrary/bin/
