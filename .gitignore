@@ -11,3 +11,6 @@ DotNetCoreAssemblyLoading/AbstractionsLibrary/obj/
 DotNetCoreAssemblyLoading/AbstractionsLibrary/AbstractionsLibrary.xproj
 DotNetCoreAssemblyLoading/AbstractionsLibrary/AbstractionsLibrary.xproj.user
 DotNetCoreAssemblyLoading/AbstractionsLibrary/bin/
+AreaRouting/obj/
+.vs/
+AreaRouting/bin/

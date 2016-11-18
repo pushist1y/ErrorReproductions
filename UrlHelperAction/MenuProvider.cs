@@ -75,7 +75,7 @@ namespace Consanta.Common.Services
 
             var url2 = _urlHelper.RouteUrl("default",
                 new Dictionary<string, object> {{"controller", "Users"}, {"action", "Index"}});
-            //url2 = "/Users" - right
+            //url2 = "/Users" - right, but usage is counter-intuitive
 
             //var url3 = _urlHelper.Action("Index", "Users", null, null, null, null, "default");
             //url3 = "/Users" - right, but currently this method does not exist
